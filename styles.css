@@ -1,0 +1,16 @@
+* {
+  background-color: rgb(185, 136, 235);
+}
+
+li {
+  text-transform: uppercase;
+}
+
+.content-para {
+  font-size: medium;
+  font-style: italic;
+}
+
+#feedback {
+  font-size: small;
+}
